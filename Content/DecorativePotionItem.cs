@@ -37,6 +37,7 @@ public class DecorativePotionItem(int potionItemType, int placeTileType) : ModIt
             Register(mod, ItemID.ManaPotion);
             Register(mod, ItemID.GreaterManaPotion);
             Register(mod, ItemID.SuperManaPotion);
+            Register(mod, ItemID.RestorationPotion);
             Register(mod, ItemID.AmmoReservationPotion);
             Register(mod, ItemID.ArcheryPotion);
             Register(mod, ItemID.BattlePotion);
@@ -79,6 +80,19 @@ public class DecorativePotionItem(int potionItemType, int placeTileType) : ModIt
             Register(mod, ItemID.WarmthPotion);
             Register(mod, ItemID.WaterWalkingPotion);
             Register(mod, ItemID.WrathPotion);
+            Register(mod, ItemID.GenderChangePotion);
+            Register(mod, ItemID.PotionOfReturn);
+            Register(mod, ItemID.RecallPotion);
+            Register(mod, ItemID.TeleportationPotion);
+            Register(mod, ItemID.WormholePotion);
+            Register(mod, ItemID.FlaskofCursedFlames);
+            Register(mod, ItemID.FlaskofFire);
+            Register(mod, ItemID.FlaskofGold);
+            Register(mod, ItemID.FlaskofIchor);
+            Register(mod, ItemID.FlaskofNanites);
+            Register(mod, ItemID.FlaskofParty);
+            Register(mod, ItemID.FlaskofPoison);
+            Register(mod, ItemID.FlaskofVenom);
         }
 
         public void Unload() { }
