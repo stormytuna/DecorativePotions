@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace PlaceablePotions.Content;
+namespace DecorativePotions.Content;
 
 public class DecorativePotionItem : ModItem
 {
