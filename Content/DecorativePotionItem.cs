@@ -37,6 +37,48 @@ public class DecorativePotionItem(int potionItemType, int placeTileType) : ModIt
             Register(mod, ItemID.ManaPotion);
             Register(mod, ItemID.GreaterManaPotion);
             Register(mod, ItemID.SuperManaPotion);
+            Register(mod, ItemID.AmmoReservationPotion);
+            Register(mod, ItemID.ArcheryPotion);
+            Register(mod, ItemID.BattlePotion);
+            Register(mod, ItemID.BiomeSightPotion);
+            Register(mod, ItemID.BuilderPotion);
+            Register(mod, ItemID.CalmingPotion);
+            Register(mod, ItemID.CratePotion);
+            Register(mod, ItemID.TrapsightPotion);
+            Register(mod, ItemID.EndurancePotion);
+            Register(mod, ItemID.FeatherfallPotion);
+            Register(mod, ItemID.FishingPotion);
+            Register(mod, ItemID.FlipperPotion);
+            Register(mod, ItemID.GillsPotion);
+            Register(mod, ItemID.GravitationPotion);
+            Register(mod, ItemID.LuckPotionGreater);
+            Register(mod, ItemID.HeartreachPotion);
+            Register(mod, ItemID.HunterPotion);
+            Register(mod, ItemID.InfernoPotion);
+            Register(mod, ItemID.InvisibilityPotion);
+            Register(mod, ItemID.IronskinPotion);
+            Register(mod, ItemID.LuckPotionLesser);
+            Register(mod, ItemID.LifeforcePotion);
+            Register(mod, ItemID.LovePotion);
+            Register(mod, ItemID.LuckPotion);
+            Register(mod, ItemID.MagicPowerPotion);
+            Register(mod, ItemID.ManaRegenerationPotion);
+            Register(mod, ItemID.MiningPotion);
+            Register(mod, ItemID.NightOwlPotion);
+            Register(mod, ItemID.ObsidianSkinPotion);
+            Register(mod, ItemID.RagePotion);
+            Register(mod, ItemID.RegenerationPotion);
+            Register(mod, ItemID.ShinePotion);
+            Register(mod, ItemID.SonarPotion);
+            Register(mod, ItemID.SpelunkerPotion);
+            Register(mod, ItemID.StinkPotion);
+            Register(mod, ItemID.SummoningPotion);
+            Register(mod, ItemID.SwiftnessPotion);
+            Register(mod, ItemID.ThornsPotion);
+            Register(mod, ItemID.TitanPotion);
+            Register(mod, ItemID.WarmthPotion);
+            Register(mod, ItemID.WaterWalkingPotion);
+            Register(mod, ItemID.WrathPotion);
         }
 
         public void Unload() { }

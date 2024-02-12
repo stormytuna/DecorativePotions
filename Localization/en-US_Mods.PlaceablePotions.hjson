@@ -1,1 +1,241 @@
-# This file will automatically update with entries for new content after a build and reload
+Items: {
+	DecorativeHealingPotion: {
+		DisplayName: Decorative Healing Potion
+		Tooltip: ""
+	}
+
+	DecorativeGreaterHealingPotion: {
+		DisplayName: Decorative Greater Healing Potion
+		Tooltip: ""
+	}
+
+	DecorativeSuperHealingPotion: {
+		DisplayName: Decorative Super Healing Potion
+		Tooltip: ""
+	}
+
+	DecorativeManaPotion: {
+		DisplayName: Decorative Mana Potion
+		Tooltip: ""
+	}
+
+	DecorativeGreaterManaPotion: {
+		DisplayName: Decorative Greater Mana Potion
+		Tooltip: ""
+	}
+
+	DecorativeSuperManaPotion: {
+		DisplayName: Decorative Super Mana Potion
+		Tooltip: ""
+	}
+
+	DecorativeAmmoReservationPotion: {
+		DisplayName: Decorative Ammo Reservation Potion
+		Tooltip: ""
+	}
+
+	DecorativeArcheryPotion: {
+		DisplayName: Decorative Archery Potion
+		Tooltip: ""
+	}
+
+	DecorativeBattlePotion: {
+		DisplayName: Decorative Battle Potion
+		Tooltip: ""
+	}
+
+	DecorativeBiomeSightPotion: {
+		DisplayName: Decorative Biome Sight Potion
+		Tooltip: ""
+	}
+
+	DecorativeBuilderPotion: {
+		DisplayName: Decorative Builder Potion
+		Tooltip: ""
+	}
+
+	DecorativeCalmingPotion: {
+		DisplayName: Decorative Calming Potion
+		Tooltip: ""
+	}
+
+	DecorativeCratePotion: {
+		DisplayName: Decorative Crate Potion
+		Tooltip: ""
+	}
+
+	DecorativeTrapsightPotion: {
+		DisplayName: Decorative Trapsight Potion
+		Tooltip: ""
+	}
+
+	DecorativeEndurancePotion: {
+		DisplayName: Decorative Endurance Potion
+		Tooltip: ""
+	}
+
+	DecorativeFeatherfallPotion: {
+		DisplayName: Decorative Featherfall Potion
+		Tooltip: ""
+	}
+
+	DecorativeFishingPotion: {
+		DisplayName: Decorative Fishing Potion
+		Tooltip: ""
+	}
+
+	DecorativeFlipperPotion: {
+		DisplayName: Decorative Flipper Potion
+		Tooltip: ""
+	}
+
+	DecorativeGillsPotion: {
+		DisplayName: Decorative Gills Potion
+		Tooltip: ""
+	}
+
+	DecorativeGravitationPotion: {
+		DisplayName: Decorative Gravitation Potion
+		Tooltip: ""
+	}
+
+	DecorativeLuckPotionGreater: {
+		DisplayName: Decorative Luck Potion Greater
+		Tooltip: ""
+	}
+
+	DecorativeHeartreachPotion: {
+		DisplayName: Decorative Heartreach Potion
+		Tooltip: ""
+	}
+
+	DecorativeHunterPotion: {
+		DisplayName: Decorative Hunter Potion
+		Tooltip: ""
+	}
+
+	DecorativeInfernoPotion: {
+		DisplayName: Decorative Inferno Potion
+		Tooltip: ""
+	}
+
+	DecorativeInvisibilityPotion: {
+		DisplayName: Decorative Invisibility Potion
+		Tooltip: ""
+	}
+
+	DecorativeIronskinPotion: {
+		DisplayName: Decorative Ironskin Potion
+		Tooltip: ""
+	}
+
+	DecorativeLuckPotionLesser: {
+		DisplayName: Decorative Luck Potion Lesser
+		Tooltip: ""
+	}
+
+	DecorativeLuckPotion: {
+		DisplayName: Decorative Luck Potion
+		Tooltip: ""
+	}
+
+	DecorativeLifeforcePotion: {
+		DisplayName: Decorative Lifeforce Potion
+		Tooltip: ""
+	}
+
+	DecorativeLovePotion: {
+		DisplayName: Decorative Love Potion
+		Tooltip: ""
+	}
+
+	DecorativeMagicPowerPotion: {
+		DisplayName: Decorative Magic Power Potion
+		Tooltip: ""
+	}
+
+	DecorativeManaRegenerationPotion: {
+		DisplayName: Decorative Mana Regeneration Potion
+		Tooltip: ""
+	}
+
+	DecorativeMiningPotion: {
+		DisplayName: Decorative Mining Potion
+		Tooltip: ""
+	}
+
+	DecorativeNightOwlPotion: {
+		DisplayName: Decorative Night Owl Potion
+		Tooltip: ""
+	}
+
+	DecorativeObsidianSkinPotion: {
+		DisplayName: Decorative Obsidian Skin Potion
+		Tooltip: ""
+	}
+
+	DecorativeRagePotion: {
+		DisplayName: Decorative Rage Potion
+		Tooltip: ""
+	}
+
+	DecorativeRegenerationPotion: {
+		DisplayName: Decorative Regeneration Potion
+		Tooltip: ""
+	}
+
+	DecorativeShinePotion: {
+		DisplayName: Decorative Shine Potion
+		Tooltip: ""
+	}
+
+	DecorativeSonarPotion: {
+		DisplayName: Decorative Sonar Potion
+		Tooltip: ""
+	}
+
+	DecorativeSpelunkerPotion: {
+		DisplayName: Decorative Spelunker Potion
+		Tooltip: ""
+	}
+
+	DecorativeStinkPotion: {
+		DisplayName: Decorative Stink Potion
+		Tooltip: ""
+	}
+
+	DecorativeSummoningPotion: {
+		DisplayName: Decorative Summoning Potion
+		Tooltip: ""
+	}
+
+	DecorativeSwiftnessPotion: {
+		DisplayName: Decorative Swiftness Potion
+		Tooltip: ""
+	}
+
+	DecorativeThornsPotion: {
+		DisplayName: Decorative Thorns Potion
+		Tooltip: ""
+	}
+
+	DecorativeTitanPotion: {
+		DisplayName: Decorative Titan Potion
+		Tooltip: ""
+	}
+
+	DecorativeWarmthPotion: {
+		DisplayName: Decorative Warmth Potion
+		Tooltip: ""
+	}
+
+	DecorativeWaterWalkingPotion: {
+		DisplayName: Decorative Water Walking Potion
+		Tooltip: ""
+	}
+
+	DecorativeWrathPotion: {
+		DisplayName: Decorative Wrath Potion
+		Tooltip: ""
+	}
+}
