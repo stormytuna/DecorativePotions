@@ -5,7 +5,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.ObjectData;
 
-namespace PlaceablePotions.Content;
+namespace DecorativePotions.Content;
 
 public class DecorativePotionTile : ModTile
 {
