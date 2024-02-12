@@ -3,7 +3,7 @@
     "Terraria": {
       "commandName": "Executable",
       "executablePath": "/usr/bin/dotnet",
-      "commandLineArgs": "$(tMLPath) --skip-select 'dev-placeable-potion:dev-classic'",
+      "commandLineArgs": "$(tMLPath) -skip-select 'dev-placeable-potion:dev-classic'",
       "workingDirectory": "$(tMLSteamPath)"
     },
     "TerrariaServer": {
