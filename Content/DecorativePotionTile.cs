@@ -7,8 +7,14 @@ using Terraria.ObjectData;
 
 namespace PlaceablePotions.Content;
 
-public class DecorativePotionTile(int potionItemType) : ModTile
+public class DecorativePotionTile : ModTile
 {
+    private readonly int potionItemType;
+
+    public DecorativePotionTile(int potionItemType) {
+        this.potionItemType = potionItemType;
+    }
+
     public override string Name => GetInternalNameFromPotionItemType(potionItemType);
 
     public static string GetInternalNameFromPotionItemType(int potionItemType) => $"{DecorativePotionItem.GetInternalNameFromPotionItemType(potionItemType)}Tile";
@@ -17,7 +23,7 @@ public class DecorativePotionTile(int potionItemType) : ModTile
         Main.tileFrameImportant[Type] = true;
         Main.tileNoAttach[Type] = true;
 
-        AdjTiles = [TileID.Bottles];
+        AdjTiles = new int[] { TileID.Bottles };
 
         TileObjectData.newTile.CopyFrom(TileObjectData.StyleOnTable1x1);
         TileObjectData.addTile(Type);

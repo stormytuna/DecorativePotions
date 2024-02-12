@@ -4,8 +4,16 @@ using Terraria.ModLoader;
 
 namespace PlaceablePotions.Content;
 
-public class DecorativePotionItem(int potionItemType, int placeTileType) : ModItem
+public class DecorativePotionItem : ModItem
 {
+    private readonly int placeTileType;
+    private readonly int potionItemType;
+
+    public DecorativePotionItem(int potionItemType, int placeTileType) {
+        this.potionItemType = potionItemType;
+        this.placeTileType = placeTileType;
+    }
+
     protected override bool CloneNewInstances => true;
 
     public override string Name => GetInternalNameFromPotionItemType(potionItemType);
