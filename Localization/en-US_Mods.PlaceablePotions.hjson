@@ -65,7 +65,7 @@ Items: {
 	}
 
 	DecorativeTrapsightPotion: {
-		DisplayName: Decorative Trapsight Potion
+		DisplayName: Decorative Dangersense Potion
 		Tooltip: ""
 	}
 
@@ -100,7 +100,7 @@ Items: {
 	}
 
 	DecorativeLuckPotionGreater: {
-		DisplayName: Decorative Luck Potion Greater
+		DisplayName: Decorative Greater Luck Potion
 		Tooltip: ""
 	}
 
@@ -130,7 +130,7 @@ Items: {
 	}
 
 	DecorativeLuckPotionLesser: {
-		DisplayName: Decorative Luck Potion Lesser
+		DisplayName: Decorative Lesser Luck Potion
 		Tooltip: ""
 	}
 
@@ -236,6 +236,76 @@ Items: {
 
 	DecorativeWrathPotion: {
 		DisplayName: Decorative Wrath Potion
+		Tooltip: ""
+	}
+
+	DecorativeRestorationPotion: {
+		DisplayName: Decorative Restoration Potion
+		Tooltip: ""
+	}
+
+	DecorativeGenderChangePotion: {
+		DisplayName: Decorative Gender Change Potion
+		Tooltip: ""
+	}
+
+	DecorativePotionOfReturn: {
+		DisplayName: Decorative Potion Of Return
+		Tooltip: ""
+	}
+
+	DecorativeRecallPotion: {
+		DisplayName: Decorative Recall Potion
+		Tooltip: ""
+	}
+
+	DecorativeTeleportationPotion: {
+		DisplayName: Decorative Teleportation Potion
+		Tooltip: ""
+	}
+
+	DecorativeWormholePotion: {
+		DisplayName: Decorative Wormhole Potion
+		Tooltip: ""
+	}
+
+	DecorativeFlaskofCursedFlames: {
+		DisplayName: Decorative Flask of Cursed Flames
+		Tooltip: ""
+	}
+
+	DecorativeFlaskofFire: {
+		DisplayName: Decorative Flask of Fire
+		Tooltip: ""
+	}
+
+	DecorativeFlaskofGold: {
+		DisplayName: Decorative Flask of Gold
+		Tooltip: ""
+	}
+
+	DecorativeFlaskofIchor: {
+		DisplayName: Decorative Flask of Ichor
+		Tooltip: ""
+	}
+
+	DecorativeFlaskofNanites: {
+		DisplayName: Decorative Flask of Nanites
+		Tooltip: ""
+	}
+
+	DecorativeFlaskofParty: {
+		DisplayName: Decorative Flask of Party
+		Tooltip: ""
+	}
+
+	DecorativeFlaskofPoison: {
+		DisplayName: Decorative Flask of Poison
+		Tooltip: ""
+	}
+
+	DecorativeFlaskofVenom: {
+		DisplayName: Decorative Flask of Venom
 		Tooltip: ""
 	}
 }
