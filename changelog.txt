@@ -1,0 +1,5 @@
+v1.0.1
+
+- Updated icon
+- Added icon_small
+- Workshop description refresh

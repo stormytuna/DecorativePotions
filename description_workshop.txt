@@ -1,3 +1,15 @@
 Decorative Potions adds some placeable decorative potion tiles!
 
 Each potion and flask has a decorative version, crafted using one potion at a heavy workbench
+
+If you want potions, flasks, and alcohols from Calamity, check out WitherTaco's [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3174001921]Calamity Decorative Potions[/url] mod
+
+[hr][/hr]
+
+Source code: https://github.com/stormytuna/DecorativePotions
+
+Join the [url=https://discord.gg/yr3hUxUxpg]discord server![/url]
+
+If you enjoy my work, [url=https://ko-fi.com/stormytuna]please consider donating[/url]
+
+If you're able to contribute translations it would be greatly appreciated! Please open an issue with the translations, or create a PR with the new .hjson localization file.
